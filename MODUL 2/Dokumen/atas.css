@@ -1,0 +1,13 @@
+body {
+  font-family: "Lucida Handwriting";
+  font-size: 3rem;
+
+}
+
+img {
+  border-radius: 70%;
+  width: 90px;
+  height: 90px;
+  margin-right: 35%;
+  margin-left: 2%;
+}
